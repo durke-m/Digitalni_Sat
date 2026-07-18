@@ -1,0 +1,24 @@
+# Keil build artifacts
+*.hex
+*.obj
+*.lst
+*.map
+*.plg
+*.__i
+*.crf
+*.d
+*.iex
+Objects/
+Listings/
+
+# Keil project files (opciono - ako ne zelis da delis IDE config)
+*.uvguix.*
+*.uvopt
+
+# Proteus
+*.pdsprj.bak
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
